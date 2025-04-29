@@ -1,8 +1,6 @@
-# P250 : Spring 2022
+# Python for Physics
+These notes are base from Computational Physics (P250) for the Spring semester 2022 as Case Western Researve University, taught by Craig Copi.
+Changes and additional units have been and will be added over time.
 
-Computational Physics (P250) for the Spring semester 2022
 
-Here you will find all the examples used in class and the computational assignments (labs and prelabs).
 
-The assignments will *also* be available from Canvas.
-All assignments **must be turned in through Canvas**.
